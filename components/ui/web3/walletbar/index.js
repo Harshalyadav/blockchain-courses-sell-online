@@ -22,7 +22,7 @@ export default function WalletBar() {
             </Button>
           </div>
           <div>
-            { network.hasInitialResponse && !network.isSupported &&
+            {/* { network.hasInitialResponse && !network.isSupported &&
               <div className="bg-red-400 p-4 rounded-lg">
                 <div>Connected to wrong network</div>
                 <div>
@@ -32,7 +32,7 @@ export default function WalletBar() {
                   </strong>
                 </div>
               </div>
-            }
+            } */}
             { requireInstall &&
               <div className="bg-yellow-500 p-4 rounded-lg">
                 Cannot connect to network. Please install Metamask.
