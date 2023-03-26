@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1410474",
+    "type": "Next JS",
+    "title": "Next JS & Typescript Full Guide",
+    "description": "Learn modern Next JS(Next 11). Code everything in Typescript.",
+    "coverImage": "https://thrangra.sirv.com/Next_TypeScript_Shopify_Final.jpg",
+    "author": "Harshal",
+    "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+    "slug": "next-js-typescript-with-shopify-integration-full-guide",
+    "wsl": [
+      "Build Next JS apps on your own",
+      "Build ecommerce apps with modern technologies",
+      "Use Shopify to your advantage"
+    ],
+    "createdAt": ""
+  }
+]
